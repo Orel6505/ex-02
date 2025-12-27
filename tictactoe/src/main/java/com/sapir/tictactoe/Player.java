@@ -1,3 +1,5 @@
+package com.sapir.tictactoe;
+
 public abstract class Player extends Thread {
     protected PlayerType type;
     protected Game game;

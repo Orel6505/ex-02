@@ -1,3 +1,5 @@
+package com.sapir.tictactoe;
+
 public class Cell {
     public int row;
     public int col;

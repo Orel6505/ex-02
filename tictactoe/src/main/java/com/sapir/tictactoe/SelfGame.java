@@ -1,3 +1,5 @@
+package com.sapir.tictactoe;
+
 public class SelfGame extends Game {
 
     public SelfGame() {
