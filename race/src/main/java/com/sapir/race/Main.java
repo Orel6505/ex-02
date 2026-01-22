@@ -1,7 +1,6 @@
 package com.sapir.race;
 
 public class Main {
-\
 	public static void main(String[] args){
 		Track track = new Track();
 		Racer racer1 = new Racer(10, track);
